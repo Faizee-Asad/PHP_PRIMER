@@ -37,6 +37,6 @@
     <button type="button" class="btn btn-danger">Click Me!</button>
     <button type="button" class="btn btn-warning">Click Me!</button>
     <button type="button" class="btn btn-info">IClick Me!nfo</button>
-    <button type="button" class="btn btn-light">Click Me!</button>
+  
     <hr>
     <?php require 'includes/footer.php' ?>
